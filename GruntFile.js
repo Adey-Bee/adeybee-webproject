@@ -18,4 +18,4 @@
 
 }).call(this);
 
-//# sourceMappingURL=Gruntfile.js.map
+//# sourceMappingURL=GruntFile.js.map
