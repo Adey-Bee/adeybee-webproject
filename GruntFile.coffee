@@ -1,6 +1,6 @@
 "use strict"
 
-module.export = (grunt) ->
+module.exports = (grunt) ->
 
 	#Force use of unix newlines
 	grunt.util.linefeed = '\n';
@@ -14,5 +14,5 @@ module.export = (grunt) ->
       		gruntfile: ["Gruntfile.js"]
 
     require("load-grunt-tasks")(grunt)
-
-    grunt.registerTask "default", [ "jshint" ]
+	grunt.registerTask "default", [ "jshint" ]
+	return
