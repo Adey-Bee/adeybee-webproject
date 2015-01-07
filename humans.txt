@@ -1,0 +1,10 @@
+/* TEAM */
+	Chef:Akinmade Bond
+	Twitter:@lovebondz
+	From:Nigeria
+
+/* SITE */
+	Last update:2014/01/08
+	Language: English
+	Doctype:HTML5
+	IDE: Sublime Text, PHPStrom

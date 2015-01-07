@@ -1,0 +1,21 @@
+{
+  "name": "Web project",
+  "version": "1.0.0",
+  "authors": [
+    "Akinmade Bond <bondz@outlook.com>"
+  ],
+  "description": "A web project",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "jquery-legacy": "jquery#^1",
+    "jquery-ui" : "latest"
+  }
+}

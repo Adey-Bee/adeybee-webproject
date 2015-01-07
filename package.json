@@ -1,0 +1,19 @@
+{
+  "name": "Web Project",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SMS Awesome is the easiest way to send messages on the web.",
+  "author": "web Project",
+  "homepage": "http://url.com/",  
+  "bugs": {
+    "url": "http://url.com/contact"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-uglify": "~0.4.0",    
+    "grunt-contrib-jshint": "~0.8",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-coffee": "^0.10.1"
+  }
+}
