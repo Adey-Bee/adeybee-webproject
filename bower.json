@@ -16,6 +16,8 @@
   ],
   "dependencies" : {
     "jquery-legacy": "jquery#^1",
-    "jquery-ui" : "latest"
+    "jquery-ui" : "latest",
+    "bootstrap": "latest",
+    "flat-ui": "latest"
   }
 }
